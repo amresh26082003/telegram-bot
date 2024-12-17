@@ -18,7 +18,7 @@ Python 3.8+
 pip (Python package manager)
 Installation
 Clone the repository:
-git clone https://github.com/Shantnu-singh/text-alchemy.git
+git clone https:https://github.com/amresh26082003/telegram-bot/blob/main/Bot_Summariser
 cd app
 
 Install dependencies:
