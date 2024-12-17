@@ -1,4 +1,5 @@
 Telegram-bot
+
 Text Alchemy ✨
 Text Alchemy is an AI-powered text summarization tool that transforms lengthy articles into concise, meaningful summaries. With seamless Telegram integration, you can access your summaries on the go!
 
@@ -11,19 +12,6 @@ Text Alchemy Banner
 🎨 Beautiful, user-friendly interface
 🚀 Real-time processing
 🚀 Quick Start
-ext Alchemy ✨
-Text Alchemy is an AI-powered text summarization tool that transforms lengthy articles into concise, meaningful summaries. With seamless Telegram integration, you can access your summaries on the go!
-
-Text Alchemy Banner
-
-✨ Features
-📝 Convert long articles into concise summaries
-📱 Telegram integration for mobile access
-📊 CSV file support for batch processing
-🎨 Beautiful, user-friendly interface
-🚀 Real-time processing
-🚀 Quick Start
-
 
 Prerequisites:
 Python 3.8+
@@ -32,8 +20,8 @@ Installation
 Clone the repository:
 git clone https://github.com/Shantnu-singh/text-alchemy.git
 cd app
-Install dependencies:
 
+Install dependencies:
 pip install -r requirements.txt
 Set up environment variables:
 Create a .env file in the project root
